@@ -18,7 +18,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-/*        public interface Predicate<T> {
+        public interface Predicate<T> {
             boolean test(T t);
         }
 
@@ -36,7 +36,7 @@ public class Main {
 
         public interface Supplier<T> {
             T get();
-        }*/
+        }
 
 
 
